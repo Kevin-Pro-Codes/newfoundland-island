@@ -22,7 +22,7 @@ export default function HeroSection() {
             <button className="bg-black text-white px-6 py-3 rounded-lg font-bold hover:bg-gray-800 transition-all duration-300 flex items-center justify-center">
   Explore Newfoundland <FaChevronRight className="ml-2" />
 </button>
-<button className="bg-black text-white px-6 py-3 rounded-lg font-bold border-2 border-white/30 hover:bg-gray-800 transition-all duration-300">
+ <button className="bg-black text-white px-6 py-3 rounded-lg font-bold hover:bg-gray-800 transition-all duration-300 flex items-center justify-center">
   Government Services
 </button>
             </div>

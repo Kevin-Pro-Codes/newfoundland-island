@@ -61,10 +61,7 @@ export default function Navbar() {
               <FaGlobeAmericas className="mr-2" />
               Français
             </button>
-            <button className="px-4 py-1.5 bg-gradient-to-r from-blue-700 to-cyan-600 text-white rounded-md font-medium hover:shadow-md transition-all flex items-center">
-              <FaSignInAlt className="mr-2" />
-              Login
-            </button>
+          
           </div>
 
           {/* Mobile menu button */}

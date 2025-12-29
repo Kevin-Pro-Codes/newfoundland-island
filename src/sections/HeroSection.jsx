@@ -19,12 +19,12 @@ export default function HeroSection() {
               Discover our rich heritage, natural beauty, and forward-looking governance.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="bg-white text-blue-900 px-6 py-3 rounded-lg font-bold hover:shadow-xl transition-all duration-300 flex items-center justify-center">
-                Explore Newfoundland <FaChevronRight className="ml-2" />
-              </button>
-              <button className="bg-white/20 backdrop-blur-sm text-black px-6 py-3 rounded-lg font-bold border-2 border-white/30 hover:bg-white/30 transition-all duration-300">
-                Government Services
-              </button>
+            <button className="bg-black text-white px-6 py-3 rounded-lg font-bold hover:bg-gray-800 transition-all duration-300 flex items-center justify-center">
+  Explore Newfoundland <FaChevronRight className="ml-2" />
+</button>
+<button className="bg-black text-white px-6 py-3 rounded-lg font-bold border-2 border-white/30 hover:bg-gray-800 transition-all duration-300">
+  Government Services
+</button>
             </div>
           </div>
         </div>
